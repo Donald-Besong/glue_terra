@@ -1,0 +1,5 @@
+makefile.mak
+makefile_orig.mak
+variables.tf
+terraform.tfvars
+*plan*.txt
